@@ -1,0 +1,30 @@
+[
+    {
+        "recipient": "+27999999999",
+        "messageID": "1205740784",
+        "messageHash": "12:1:IM:FR",
+        "message": "Im really the goat fr",
+        "timestamp": 1760342949056
+    },
+    {
+        "recipient": "+27999999999",
+        "messageID": "9620798308",
+        "messageHash": "96:1:HI:BRO",
+        "message": "hi big bro",
+        "timestamp": 1760342949056
+    },
+    {
+        "recipient": "+27999999999",
+        "messageID": "1542752757",
+        "messageHash": "15:1:HI:HI",
+        "message": "hi",
+        "timestamp": 1760342949056
+    },
+    {
+        "recipient": "+27999999999",
+        "messageID": "9951779946",
+        "messageHash": "99:1:HI:HI",
+        "message": "hi",
+        "timestamp": 1760342949056
+    }
+]
