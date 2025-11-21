@@ -1,9 +1,11 @@
  QuickChat - Java Messaging Application
 
 Student: Pride Mubata ST10488314
+
 Course:PROG5121 
 
  Project Description
+ 
 QuickChat is a comprehensive Java messaging application that allows users to be able to send, store, as well as manage text messages with robust validation and tracking features. The application features a graphical user interface using Swing and includes message persistence, search functionality, and detailed reporting.
 
 Features
